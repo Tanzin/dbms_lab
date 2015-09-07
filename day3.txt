@@ -1,0 +1,8 @@
+que : Student (rollno, name,dept,year)
+a) insert more than a record into emp table using a single insert command.
+b) update the student table to set  year  of all students  to 2015 who are studying under CSE department
+c) create a table stud with same structure as the table studnet and insert rows into the table using "select clause"
+D)delet only those who are under ECE
+E) list the record in the student table order by year in asc;
+F display name fromt the table student ovoiding duplicate values;
+
